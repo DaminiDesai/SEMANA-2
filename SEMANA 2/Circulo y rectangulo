@@ -1,0 +1,73 @@
+// Archivo: Shapes.cs
+
+using System;
+
+namespace GeometricShapes
+{
+    // Clase para representar un Círculo
+    public class Circle
+    {
+        // Campo para el radio
+        private double radius;
+
+        // Constructor
+        public Circle(double radius)
+        {
+            this.radius = radius;
+        }
+
+        // Método para calcular el área del círculo
+        public double GetArea()
+        {
+            return Math.PI * Math.Pow(radius, 2);
+        }
+
+        // Método para calcular el perímetro (circunferencia) del círculo
+        public double GetPerimeter()
+        {
+            return 2 * Math.PI * radius;
+        }
+    }
+
+    // Clase para representar un Rectángulo
+    public class Rectangle
+    {
+        // Campos para la longitud y el ancho
+        private double length;
+        private double width;
+
+        // Constructor
+        public Rectangle(double length, double width)
+        {
+            this.length = length;
+            this.width = width;
+        }
+
+        // Método para calcular el área del rectángulo
+        public double GetArea()
+        {
+            return length * width;
+        }
+
+        // Método para calcular el perímetro del rectángulo
+        public double GetPerimeter()
+        {
+            return 2 * (length + width);
+        }
+    }
+
+    // Clase principal para pruebas
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // Ejemplo con un círculo
+            Circle circle = new Circle(5);
+            Console.WriteLine($"Círculo - Radio: 5, Área: {circle.GetArea():F2}, Perímetro: {circle.GetPerimeter():F2}");
+
+            // Ejemplo con un rectángulo
+            Rectangle rectangle = new Rectangle(10, 4);
+            Console.WriteLine($"Rectángulo - Longitud: 10, Ancho: 4, Área: {rectangle.GetArea():F2}, Perímetro: {rectangle.GetPerimeter():F2}");
+        }
+    }
+}

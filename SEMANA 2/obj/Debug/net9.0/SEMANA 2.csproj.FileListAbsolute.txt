@@ -1,0 +1,14 @@
+c:\Users\hp\OneDrive - Universidad Estatal Amazónica\Escritorio\SEMANA 2\SEMANA 2\bin\Debug\net9.0\SEMANA 2.exe
+c:\Users\hp\OneDrive - Universidad Estatal Amazónica\Escritorio\SEMANA 2\SEMANA 2\bin\Debug\net9.0\SEMANA 2.deps.json
+c:\Users\hp\OneDrive - Universidad Estatal Amazónica\Escritorio\SEMANA 2\SEMANA 2\bin\Debug\net9.0\SEMANA 2.runtimeconfig.json
+c:\Users\hp\OneDrive - Universidad Estatal Amazónica\Escritorio\SEMANA 2\SEMANA 2\bin\Debug\net9.0\SEMANA 2.dll
+c:\Users\hp\OneDrive - Universidad Estatal Amazónica\Escritorio\SEMANA 2\SEMANA 2\bin\Debug\net9.0\SEMANA 2.pdb
+c:\Users\hp\OneDrive - Universidad Estatal Amazónica\Escritorio\SEMANA 2\SEMANA 2\obj\Debug\net9.0\SEMANA 2.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\hp\OneDrive - Universidad Estatal Amazónica\Escritorio\SEMANA 2\SEMANA 2\obj\Debug\net9.0\SEMANA 2.AssemblyInfoInputs.cache
+c:\Users\hp\OneDrive - Universidad Estatal Amazónica\Escritorio\SEMANA 2\SEMANA 2\obj\Debug\net9.0\SEMANA 2.AssemblyInfo.cs
+c:\Users\hp\OneDrive - Universidad Estatal Amazónica\Escritorio\SEMANA 2\SEMANA 2\obj\Debug\net9.0\SEMANA 2.csproj.CoreCompileInputs.cache
+c:\Users\hp\OneDrive - Universidad Estatal Amazónica\Escritorio\SEMANA 2\SEMANA 2\obj\Debug\net9.0\SEMANA 2.dll
+c:\Users\hp\OneDrive - Universidad Estatal Amazónica\Escritorio\SEMANA 2\SEMANA 2\obj\Debug\net9.0\refint\SEMANA 2.dll
+c:\Users\hp\OneDrive - Universidad Estatal Amazónica\Escritorio\SEMANA 2\SEMANA 2\obj\Debug\net9.0\SEMANA 2.pdb
+c:\Users\hp\OneDrive - Universidad Estatal Amazónica\Escritorio\SEMANA 2\SEMANA 2\obj\Debug\net9.0\SEMANA 2.genruntimeconfig.cache
+c:\Users\hp\OneDrive - Universidad Estatal Amazónica\Escritorio\SEMANA 2\SEMANA 2\obj\Debug\net9.0\ref\SEMANA 2.dll
